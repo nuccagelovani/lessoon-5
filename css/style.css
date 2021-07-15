@@ -1,0 +1,169 @@
+/*header*/
+body {
+	background-color: #F6F8F9;
+}
+.navigation {
+	display: inline-block;
+	margin-left: 92px;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 27px;
+	vertical-align: middle;
+	font-size: 11px;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 20px;
+	padding-bottom: 18px;
+}
+.logo {
+	display: inline-block;
+	padding-left: 20px;
+	padding-bottom: 17px;
+	padding-top: 18px;
+	vertical-align: middle;
+}
+.nav-li1 {
+	margin-left: 40px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.header {
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 10;
+}
+/*section*/
+.container {
+	width: 1160px;
+	margin: 0 auto; 
+}
+.section1 {
+	margin-top: 75px;
+}
+.text1 {
+	margin-bottom: 40px;
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+}
+.block {
+	display: inline-block;
+	position: relative;
+	z-index: 5;
+}
+.block-text {
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	font-size: 16px;
+	color: #ffffff;	
+	font-family: 'Roboto', sans-serif;
+	display: inline-block;
+}
+.text2 {
+	padding-bottom: 10px;
+	padding-top: 66px;
+	font-size: 13px;
+	width: 280px;
+	color: #A6ADB4;
+	padding-left: 40px;
+}
+.time {
+	padding-left: 40px;
+}
+.spantime {
+	color: #A6ADB4;
+}
+.white-box {
+	background-color: #ffffff;
+	height: 170px;
+}
+.white-box2 {
+	background-color: #ffffff;
+	height: 170px;
+}
+/*section2*/
+.text3 {
+	margin-left: 100px;
+	margin-top: 58px;
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+}
+.left-block {
+	display: inline-block;
+	width: 650px;
+	margin-left: 100px;
+}
+.right-block {
+	display: inline-block;
+	width: 360px;
+}
+.dividers {
+	margin: 0 auto;
+
+}
+.list {
+	margin-top: 40px;
+	margin-left: 70px;
+}
+.image {
+	width: 650px;
+	padding-top: 50px;
+}
+/*footer*/
+.logofooter {
+	display: inline-block;
+}
+.ulfooter {
+ 	display: inline-block;
+}
+.ulfooter2 {
+	display: inline-block;
+}
+.ulfooter3 {
+	display: inline-block;
+}
+.footerdiv {
+	background-color: #A6ADB4;
+	width: 100%;
+	height: 200px;
+	margin-top: 34px;
+	display: inline-block;
+}
+.foot-li {
+	color: #CBD0D3;
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+	margin-left: 70px;
+}
+.logofooter {
+	color:#ffffff ;
+}
+.navigation-footer {
+	margin-left: 100px;
+	padding-top: 56px;
+	display: inline-block;
+}
+.text4 {
+	display: inline-block;
+	margin-left: 104px;
+	color: #ffffff;
+}
+.foot-div {
+	display: inline-block;
+}
+.navigation1 {
+	display: inline-block;
+}
+.ullfot {
+	display: inline-block;
+	padding-left: 32px;
+	margin-top: 56px;
+
+}
+.footul2 {
+	display: inline-block;
+	margin-left: 100px;
+}
